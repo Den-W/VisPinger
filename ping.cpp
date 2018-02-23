@@ -3,7 +3,7 @@
  *  Copyright (c) by Denis Vidjakin, 
  *  
  *  https://github.com/Den-W/
- *  http://mysku.ru/blog/aliexpress/
+ *  https://mysku.ru/blog/aliexpress/52107.html
  *  https://www.instructables.com/id/VisPinger-Colorfy-Your-LAN-State
  *  
  *  PING related stuff
